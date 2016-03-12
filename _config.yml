@@ -1,0 +1,14 @@
+layout_spectrum: 0.7026846
+typography_spectrum: 0.5035969
+color:
+  saturation: 0.2957642
+  lightness: 0.3949288
+  brandStrength: 0.7370521
+  rhythmicContrast: 0.2693074
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: NewDBZ
