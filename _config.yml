@@ -1,8 +1,5 @@
-layout_spectrum: 0.7026846
-typography_spectrum: 0.5035969
 color:
   saturation: 0.2957642
-  lightness: 0.3949288
   brandStrength: 0.7370521
   rhythmicContrast: 0.2693074
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+  lightness: 0.3949288
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.7026846
+typography_spectrum: 0.5035969
 name: NewDBZ
