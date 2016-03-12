@@ -1,14 +1,7 @@
-color:
-  saturation: 0.2957642
-  brandStrength: 0.7370521
-  rhythmicContrast: 0.2693074
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  lightness: 0.3949288
+name: NewDBZ
+favicon: null
+layout_spectrum: 0.7026846
+typography_spectrum: 0.5035969
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.7026846
-typography_spectrum: 0.5035969
-name: NewDBZ
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 1
+  lightness: 0.4375
+  saturation: 0.1875
+  rhythmicContrast: 1
+purpose: []
