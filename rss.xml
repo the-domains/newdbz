@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[NewDBZ]]></title>
         <description><![CDATA[NewDBZ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/newdbz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 11:54:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 11:54:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/newdbz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87100d3f-0fd8-46f7-b153-1546e667045f.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/87100d3f-0fd8-46f7-b153-1546e667045f.png</link>
+            <guid isPermaLink="false">e440b0f8-599c-42e8-a6e8-e33d2c78afc2</guid>
+            <pubDate>Sat, 12 Mar 2016 11:54:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a test</p>]]></description>
-            <link>undefinedec6010d0-9659-4df3-a3eb-f32fd3747c07/index.html</link>
+            <link>https://thegrid.ai/newdbz/ec6010d0-9659-4df3-a3eb-f32fd3747c07/index.html</link>
             <guid isPermaLink="false">ec6010d0-9659-4df3-a3eb-f32fd3747c07</guid>
             <pubDate>Sat, 12 Mar 2016 11:54:26 GMT</pubDate>
         </item>
