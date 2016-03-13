@@ -4,8 +4,15 @@
         <description><![CDATA[NewDBZ]]></description>
         <link>https://thegrid.ai/newdbz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 08:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 08:00:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/newdbz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.examiner.com/images/blog/replicate/EXID13184/images/dbk3.jpg">]]></description>
+            <link>https://thegrid.ai/newdbz/8208605f-0280-4eb6-be9c-324e851e84a3/index.html</link>
+            <guid isPermaLink="false">8208605f-0280-4eb6-be9c-324e851e84a3</guid>
+            <pubDate>Sun, 13 Mar 2016 07:59:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.examiner.com/images/blog/replicate/EXID13184/images/dbk2.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/87100d3f-0fd8-46f7-b153-1546e667045f.png</link>
             <guid isPermaLink="false">e440b0f8-599c-42e8-a6e8-e33d2c78afc2</guid>
             <pubDate>Sun, 13 Mar 2016 06:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a test</p>]]></description>
-            <link>https://thegrid.ai/newdbz/ec6010d0-9659-4df3-a3eb-f32fd3747c07/index.html</link>
-            <guid isPermaLink="false">ec6010d0-9659-4df3-a3eb-f32fd3747c07</guid>
-            <pubDate>Sun, 13 Mar 2016 06:46:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
