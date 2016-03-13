@@ -4,8 +4,15 @@
         <description><![CDATA[NewDBZ]]></description>
         <link>https://thegrid.ai/newdbz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 08:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 08:32:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/newdbz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.funimation.com/shows/dragon-ball/videos/official/secret-of-the-dragon-ball</p>]]></description>
+            <link>https://thegrid.ai/newdbz/httpwwwfunimationcomshowsdragon-ballvideosofficial/index.html</link>
+            <guid isPermaLink="false">69b9a268-f214-4860-8a61-cfd3b13172e5</guid>
+            <pubDate>Sun, 13 Mar 2016 08:32:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://bias.files.wordpress.com/2011/12/img_0456.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/newdbz/5e82a4e5-63f7-4dc8-a114-b543c9079cc7/index.html</link>
             <guid isPermaLink="false">5e82a4e5-63f7-4dc8-a114-b543c9079cc7</guid>
             <pubDate>Sun, 13 Mar 2016 07:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Summer 2014]]></title>
-            <description><![CDATA[<article><h1>Summer 2014</h1><p>Uploaded by Quinn Woods-Robinson on 2014-07-21.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcdbeb666b169cbafa69a555595d74264dd56367.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=SgIjX7xGBbs</link>
-            <guid isPermaLink="false">834cfb1b-9235-49a3-955e-0cf6108846de</guid>
-            <pubDate>Sun, 13 Mar 2016 07:02:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
