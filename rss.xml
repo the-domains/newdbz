@@ -4,15 +4,8 @@
         <description><![CDATA[NewDBZ]]></description>
         <link>https://thegrid.ai/newdbz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 08:00:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 08:00:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/newdbz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[BatMetal]]></title>
-            <description><![CDATA[<article><h1>BatMetal</h1><p>BatMetal About it A project I started on August 1st, 2014, when I first saw the BATMETAL animation (and got reaaaaaaally excited about it!). Finished it now, on March 10, 2016! LOL Not because the project was that difficult. It was mainly because of the intervals I made while working or just being too lazy to work on it.</p></article>]]></description>
-            <link>https://sketchfab.com/models/c45949b14f7c427693418beaf678ea21</link>
-            <guid isPermaLink="false">2e545161-ec92-4f63-bad4-d7f9abb2c2f1</guid>
-            <pubDate>Sun, 13 Mar 2016 07:59:33 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Cathedral]]></title>
             <description><![CDATA[<article><h1>Cathedral</h1><p>This is a build that I use as a parkour map on my friend's server. Please ignore the model export errors. Map download: http://www.mediafire.com/download/r9etmbpgtr2a8g3/Cathedral.rar minecraft 1.7+ with Conquest texturepack</p></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/newdbz/484b7495-0c90-4788-ae13-edd390aa3b45/index.html</link>
             <guid isPermaLink="false">484b7495-0c90-4788-ae13-edd390aa3b45</guid>
             <pubDate>Sat, 12 Mar 2016 12:38:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a5027c2-1ec8-4f9a-9369-3ef7c265cfa1.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a5027c2-1ec8-4f9a-9369-3ef7c265cfa1.png</link>
+            <guid isPermaLink="false">4fda73c1-9e85-4d54-a876-f2ab17fa7f57</guid>
+            <pubDate>Sat, 12 Mar 2016 12:38:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
