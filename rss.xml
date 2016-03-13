@@ -4,8 +4,22 @@
         <description><![CDATA[NewDBZ]]></description>
         <link>https://thegrid.ai/newdbz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 08:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 08:21:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/newdbz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://media.animevice.com/uploads/0/69/545801-default_image__earth_dragon_balls__object_page_.png">]]></description>
+            <link>https://thegrid.ai/newdbz/00088c60-52b8-4461-9ecf-edea61d62ce7/index.html</link>
+            <guid isPermaLink="false">00088c60-52b8-4461-9ecf-edea61d62ce7</guid>
+            <pubDate>Sun, 13 Mar 2016 08:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_GpT3v5kvc8VIPaE34R6oYwywn5ldY5F4gRJcoHl9QC2fCAPyhA">]]></description>
+            <link>https://thegrid.ai/newdbz/3f11f9af-252e-4ce7-b327-0f537b4e8352/index.html</link>
+            <guid isPermaLink="false">3f11f9af-252e-4ce7-b327-0f537b4e8352</guid>
+            <pubDate>Sun, 13 Mar 2016 08:20:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://hddesktopwallpapers.in/wp-content/uploads/2015/07/dragon-ball-z-wallpapers-symbol.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/newdbz/85243530-6f9f-4954-83ea-ed7ac1ef6a7f/index.html</link>
             <guid isPermaLink="false">85243530-6f9f-4954-83ea-ed7ac1ef6a7f</guid>
             <pubDate>Sun, 13 Mar 2016 06:42:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/df8ac864-eb11-4322-9737-04a0a56ccab2.png">]]></description>
-            <link>https://thegrid.ai/newdbz/ba97fb8a-7956-4837-b324-26d728c6b598/index.html</link>
-            <guid isPermaLink="false">ba97fb8a-7956-4837-b324-26d728c6b598</guid>
-            <pubDate>Sun, 13 Mar 2016 06:42:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://media.comicbook.com/uploads1/2015/04/dragon-ball-133715.jpg">]]></description>
-            <link>https://thegrid.ai/newdbz/302e9e91-e5cd-44a1-bcfe-df0bec0fd235/index.html</link>
-            <guid isPermaLink="false">302e9e91-e5cd-44a1-bcfe-df0bec0fd235</guid>
-            <pubDate>Sun, 13 Mar 2016 06:36:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
