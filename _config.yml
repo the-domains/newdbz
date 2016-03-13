@@ -1,7 +1,7 @@
 name: NewDBZ
 favicon: null
-layout_spectrum: 0.50692
-typography_spectrum: 0.53763
+layout_spectrum: 0.75496
+typography_spectrum: 1
 collections:
   - index:
       path: /
